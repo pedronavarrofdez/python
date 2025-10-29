@@ -33,7 +33,15 @@ print("Current username:", username)
 `Previous username: nzhao`  
 `Current username: zhao2`  
 
+---
 
+## Codigo comprobar tipo de variable
+```py
+device_id = "72e08x0"
+device_id_type = type(device_id)
+print(device_id_type)
+```
+`<class 'str'>`  
 
 
 
