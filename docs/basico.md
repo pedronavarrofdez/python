@@ -1,4 +1,5 @@
 # Basicos de Python
+`#` para comentarios  
 ## Data type
 - String: "cualqui3r sEcueNcia de caract3res" 
 - List: [12, 36, 54, 1, 7] o [15, "approved", True, 45.5, False]  
@@ -43,5 +44,33 @@ print(device_id_type)
 ```
 `<class 'str'>`  
 
+---
 
+## Condicionales
+`==` igual  
+`!=` distinto  
+`<` , `>`, `<=`, `>=`  
+
+## IF | ELSE | ELIF
+```py
+if status == 200:
+    print("OK")
+elif status == 500:
+    print("Bad Request")
+else:
+    print("check other status")
+```
+## AND | OR | NOT
+```py
+if status >= 200 and status <= 226:
+    print("successful response")
+```
+```py
+if status == 100 or status == 102:
+    print("informational response")
+```  
+```py
+if not(status >= 200 and status <= 226):
+    print("check status")
+```  
 
