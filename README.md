@@ -1,5 +1,5 @@
 # Python
-Intento aprender a usar `pyhton` supongo.
+Intento aprender a usar `python` supongo.
 
 ## ಥ﹏ಥ
 <br />
