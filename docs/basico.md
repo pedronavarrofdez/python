@@ -74,3 +74,39 @@ if not(status >= 200 and status <= 226):
     print("check status")
 ```  
 
+---
+
+## FOR loop
+```py
+for i in [1,2,3,4]:
+    print(i)
+```
+
+```py
+for i in range(0,10)
+    print(i)
+# Imprime de 0 a 9
+```
+
+```py
+for i in range(10)
+    print("Pascu es gay")
+# Imprime de "Pascu es gay" 10 veces
+```
+
+## WHILE loop
+```py
+# Imprime "pascu es gay" hasta que time sea mayor que 10
+time = 0
+while time <= 10:
+    print("Pascu es gay")
+    time = time + 2
+# suma dos a time en cada ciclo
+```
+
+
+
+
+
+
+
