@@ -4,3 +4,12 @@ Intento aprender a usar `python` supongo.
 ## ಥ﹏ಥ
 <br />
 
+### Enlaces
+-  Basico: 
+-  
+-  
+-  
+-  
+
+</br>
+ *👋
