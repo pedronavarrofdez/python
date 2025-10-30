@@ -5,8 +5,8 @@ Intento aprender a usar `python` supongo.
 <br />
 
 ### Enlaces
--  Basico: 
--  
+-  Basico: [*basico*](docs/basico.md)
+-  Loops: [*while and for*](docs/loops.md)
 -  
 -  
 -  
