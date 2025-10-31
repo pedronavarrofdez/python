@@ -33,6 +33,38 @@ if email_status == "potential concern":
 
 ---
 
+## Return
 
+```py
+# Define la funcion
+def remaining_login_attempts(maximum_attempts, total_attempts):
+    return maximum_attempts - total_attempts
+
+# Nombra variable global con el resultado de la variable local.
+remaining_attempts = remaining_login_attempts(3, 3)
+
+# if de vuelta
+if remaining_attempts <= 0:
+    print("Your account is locked")
+```
+
+> [!NOTE]
+> Las variables locales (dentro de la funcion) solo funcionan dentro, por eso se asigna a una global.  
+
+```py
+username = "elarson"
+print("1:" + username)
+def greet():
+    username = "bmoreno"
+    print("2:" + username)
+greet()
+print("3:" + username)
+```  
+> output  
+`1:elarson`  
+`2:bmoreno`  
+`3:elarson`  
+
+---
 
 
