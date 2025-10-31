@@ -7,7 +7,7 @@ Intento aprender a usar `python` supongo.
 ### Enlaces
 -  Basico: [*basico*](docs/basico.md)
 -  Loops: [*while and for*](docs/loops.md)
--  
+-  Function [*def*](docs/function.md)  
 -  
 -  
 
