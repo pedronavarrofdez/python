@@ -61,10 +61,42 @@ greet()
 print("3:" + username)
 ```  
 > output  
+
 `1:elarson`  
 `2:bmoreno`  
 `3:elarson`  
 
 ---
+
+## Build-in functions
+print() , type() , max() , min() , sorted()...   
+
+```py
+time_list = [12, 2, 32, 19, 57, 22, 14]
+print(min(time_list))
+print(max(time_list))
+```
+> output
+
+`2`  
+`57`  
+  
+</br>
+
+```py
+# Ordenar una lista asignada a una variable
+time_list = [12, 2, 32, 19, 57, 22, 14]
+print(sorted(time_list))
+```
+> output
+
+`[2, 12, 14, 19, 22, 32, 57]`  
+
+
+
+
+
+
+
 
 
