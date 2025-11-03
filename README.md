@@ -8,7 +8,7 @@ Intento aprender a usar `python` supongo.
 -  Basico: [*basico*](docs/basico.md)
 -  Loops: [*while and for*](docs/loops.md)
 -  Function [*def*](docs/function.md)  
--  
+-  Librerias [*librerias*](docs/librerias.md)  
 -  
 
 </br>
