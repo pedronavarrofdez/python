@@ -16,7 +16,8 @@ Intento aprender a usar `python` supongo.
 </br>
 
 - Import [*open()*](docs2/import_file.md)
-- a
+- Parsing [*basico*](docs2/parsing.md)
+- 
 
 </br>
  *👋
