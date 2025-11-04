@@ -12,7 +12,10 @@ Intento aprender a usar `python` supongo.
 -  Strings [*Strings*](docs/string.md)
 -  Listas [*Listas*](docs/lists.md)
 -  Regular [*expresions*](docs/regular-exp.md)
--  
+
+</br>
+
+- asda
 
 </br>
  *👋
