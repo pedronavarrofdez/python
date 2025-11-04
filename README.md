@@ -11,6 +11,8 @@ Intento aprender a usar `python` supongo.
 -  Librerias [*librerias*](docs/librerias.md)  
 -  Strings [*Strings*](docs/string.md)
 -  Listas [*Listas*](docs/lists.md)
+-  Regular [*expresions*](docs/regular-exp.md)
+-  
 
 </br>
  *👋
