@@ -15,7 +15,8 @@ Intento aprender a usar `python` supongo.
 
 </br>
 
-- asda
+- Import [*open()*](docs2/import_file.md)
+- a
 
 </br>
  *👋
